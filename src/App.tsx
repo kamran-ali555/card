@@ -12,8 +12,7 @@ function App() {
         <div className="relative px-7 py-6 bg-black rounded-lg leading-none flex items-center">
           <div className="flex flex-col space-y-4">
             <div className="flex items-center space-x-2">
-              <Sparkles className="h-6 w-6 text-pink-500" />
-              <span className="text-pink-500 text-lg font-bold">Premium Card</span>
+              <span className="text-pink-500 text-lg font-bold"> kamran kakakhail</span>
             </div>
             
             <h3 className="text-white text-2xl font-bold">
